@@ -2,19 +2,19 @@
 
 ## <u>""FAÇA POR SUA CONTA E RISCO""<u>:warning:
 
- - ### O que é fazer root?
+ - **O que é fazer root?**
 
 Celulares com sistema Android têm sua base de programação em Linux. Esses aparelhos têm a opção de você rodar um programa e fazer um root. O root faz com que você seja um superadministrador e tenha acesso a áreas e controle que antes não tinha.  
 
-- #### Vantagens de se fazer o root
+- **Vantagens de se fazer o root**
 
 A maior vantagem é ter controle total do seu smartphone, desde excluir aplicativos que vêm instalados de fábrica até instalar apps que eram bloqueados. Outra vantagem é poder fazer backup e rastreamento do sistema, realizar overclocking do processador (ou seja, fazer com que ele dê o máximo de sua potência) e até instalar novas versões Android que ainda não foram liberadas oficialmente.
 
-- ##### Como fazer root do celular
+- **Como fazer root do celular**
 
 Para fazer esse procedimento é necessário ativar o modo Depuração USB do seu celular. Depois baixar no computador algum programa que realize o root. Então é necessário conectar o celular ao computador por cabo USB e seguir os passos que o programa vai indicando. Lembrando que há vários softwares para fazer o root disponíveis na Web, basta pesquisar.
 
-- ###### Riscos de se fazer root
+- **Riscos de se fazer root**
 
 Há alguns riscos ao fazer o root. Dentre eles temos o de que durante o processo algo dê errado e acabe travando o celular. Outro problema que pode acontecer é que seu celular pode perder a garantia, e tanto nesse como no primeiro problema, a fabricante do celular não poderá te ajudar.
 
